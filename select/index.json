@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "TOKIMEKIエスカレート",
+  "base_artist": "城ヶ崎美嘉 (CV: 佳村はるか)",
+  "createdAt": "2026-03-01T12:58:26.039773Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "TOKIMEKIエスカレート -LIVE MIX- [ORT]",
+      "artist": "城ヶ崎美嘉(CV:佳村はるか)",
+      "has_synced": true,
+      "path": "select/01_TOKIMEKIエスカレート_-LIVE_MIX-_[ORT]_城ヶ崎美嘉(CV_佳村はるか).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "TOKIMEKIエスカレート [ORT]",
+      "artist": "城ヶ崎美嘉(CV:佳村はるか)",
+      "has_synced": true,
+      "path": "select/02_TOKIMEKIエスカレート_[ORT]_城ヶ崎美嘉(CV_佳村はるか).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "TOKIMEKIエスカレート -LIVE MIX-",
+      "artist": "城ヶ崎美嘉",
+      "has_synced": true,
+      "path": "select/03_TOKIMEKIエスカレート_-LIVE_MIX-_城ヶ崎美嘉.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "TOKIMEKIエスカレート",
+      "artist": "城ヶ崎美嘉 (CV佳村はるか)",
+      "has_synced": true,
+      "path": "select/04_TOKIMEKIエスカレート_城ヶ崎美嘉_(CV佳村はるか).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "TOKIMEKIエスカレート -LIVE MIX-",
+      "artist": "城ヶ崎美嘉(CV.佳村はるか)",
+      "has_synced": false,
+      "path": "select/05_TOKIMEKIエスカレート_-LIVE_MIX-_城ヶ崎美嘉(CV.佳村はるか).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TOKIMEKIエスカレート",
+      "artist": "城ヶ崎美嘉(CV:佳村はるか)",
+      "has_synced": false,
+      "path": "select/pl_01_TOKIMEKIエスカレート_城ヶ崎美嘉(CV_佳村はるか).txt"
+    }
+  ]
+}
